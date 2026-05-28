@@ -399,7 +399,7 @@ Split payments
 - there’s more wealth sloshing about (without fiddling interest rates), so trickle-down actually works
 - plenty of opportunity for local industrialists
 - capital finds context, reinvested into local communities
-- perhaps that tiny State apparatus for "muh roads" is also mostly AI and some crowdfunded labor
+- perhaps that tiny State apparatus for "muh roads" is also mostly AI and some crowdfunded labor / perhpas localised friendly societies
 - capital de-enshittifies
 - ancaps are happy because the market is full of lots of competing capital
 - soya commies are happy because they get cooperatives for hyperscaled globalised capital
