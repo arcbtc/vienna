@@ -316,13 +316,9 @@ and to accept the paradigm of the international corporations is a new phenomom. 
 
 "Although I do personally like a welfare safety net, universal access to education and healthcare, parks, and of course muh roads."
 
-"In the UK we are all children of the NHS, but do you know where that came from? Nye Bevan, Tredegar, friendly societies, miners' surplus welfare."
+"In the UK we are all children of the NHS, but do you know where that came from? Post ww2 politican Nye Bevan, Tredegar, friendly societies, miners' surplus welfare."
 
-"The socialist tradition traditionally had a strong anti-state sentiment from Kropotkin (Mutual Aid: A Factor of Evolution), Joseph Proudhon (the first anarchist), and Mikhail Bakunin (who predicted Marx’s proletariat revolution would create the red bureaucracy and horrors we saw in the USSR / Communist China)."
-
-"So perhaps we can get rid of the State but keep muh roads. Mises and Hayek believed a teeny tiny state was okay, right? It was Rothbard and the anarcho-capitalists who moved the Austrian school toward no state."
-
-"With no state, or a teeny tiny state, crony capitalist monopolies break apart and the market adopts those permissionless properties again."
+"Voluntarily contributing capital into a pot and seeing the benfits of the expenditure. We se similiar patterns of behavior under tax regimes like swiss, but of course the Austrian School would correctly kick back on this saying the still comes attached with cooercion and gthreat of violence. 
 -->
 
 ---
