@@ -370,7 +370,7 @@ which is funny
 ---
 
 
-# Vibing Capital
+# bitcoin upgrade + vibing Capital
 
 - SMEs become cheaper to run
 - AI lowers coordination costs
@@ -392,6 +392,8 @@ which is funny
 
 "Many of the higher paying jobs in a corporation exist around... something AI is good at."
 Regardless of being dependent on AI
+
+Split payments
 
 -->
 ---
