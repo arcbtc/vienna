@@ -397,11 +397,11 @@ Split payments
 
 # The Synthesis (possible utopian Equilibrium)
 
-- crony capitalist corpscorps are outcompeted by massive coops in the free market
+- crony capitalism outcompeted by massive coops in the free market
 - there’s more wealth sloshing about (without fiddling interest rates), so trickle-down actually works
 - plenty of opportunity for local industrialists
 - capital finds context, reinvested into local communities
-- perhaps that tiny State apparatus for "muh roads" is also mostly AI and some crowdfunded labor / perhpas localised friendly societies
+- perhaps that tiny State apparatus for "muh roads" is also mostly AI and some crowdfunded labor / perhaps localised friendly societies NO state
 - capital de-enshittifies
 - ancaps are happy because the market is full of lots of competing capital
 - soya commies are happy because they get cooperatives for hyperscaled globalised capital
