@@ -312,7 +312,7 @@ and to accept the paradigm of the international corporations is a new phenomom. 
 # State Becoming Superfluous?
 
 <!--
-"With enough tooling, FLOSS, and AI, the apparatus of the State just simply becomes less neccesary.
+"With enough tooling, FLOSS, and AI, the apparatus of the State just simply becomes less neccesary. Its one of my highest hopes for bitcoin, iots ability to take the task of money production away from state.
 
 "Although I do personally like a welfare safety net, universal access to education and healthcare, parks, and of course muh roads."
 
