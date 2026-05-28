@@ -150,14 +150,13 @@ style: |
 <!--
 “We live in an age where products get worse, services degrade, and yet the institutions behind them become larger and more powerful.”
 
-pause
-
 “That should not happen in functioning markets.”
+
+"The Austrian School has itslf had a tradition of critising crony capitallism and regulatory caputre.
 
 Services get shitter.
 
 “Corporate nihilism is when institutions become structurally detached from the long-term wellbeing of the people they affect.”
-
 
 We will look at some historical context, and how the context that capital operates within alters how it behaves.
 
