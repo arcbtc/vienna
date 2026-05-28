@@ -354,7 +354,9 @@ which is funny
 <!--
 "With Nostr, Bitcoin, FLOSS, and AI, it’s not that hard to imagine a different mode of capital competing in the market."
 
-"With microtransactions money can flow at the speed of light throughout organisations. One of the more interesting breakthroughs we had early on in LNbits was the invention of payment splits. When you can move tiny amounts of money through a network for low cost, the rails themselves could change how money flows through an organisation, making it more efficient."
+"payment split rant"
+
+"nostr market, local producers"
 
 "These are extreme examples in highly profitable corporations, but with Meta’s median salary of $270k–$280k, the concept of that bumping to +$1m is a heck of an incentive, especially when you see the repeated poor business decisions of Zuckerberg."
 
